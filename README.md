@@ -1,28 +1,21 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
-<h3 align="center">Student || Pursuing B.Tech in Computer Science and Engineering || Learning JAVA || Ready Collabrating For Open Source Projects</h3>
-<img align="center" alt="Coding" widht="50" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+# 💫 About Me:
+👋 Hello! I'm Abhinav Singh<br>I’m a passionate Computer Science student delving into software development, APIs, and data-driven projects. My interests span across IoT, AI/ML, and web development. I enjoy building practical solutions to real-world problems, from APIs to full-stack apps using Node.js, Next.js, and MongoDB.<br><br>🌱 Currently, I’m working on projects that help bridge communication gaps, such as an app for deaf and mute students that interprets Indian Sign Language.<br><br>📚 Always eager to learn, I love exploring new technologies and taking on innovative challenges!<br><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abheenavsingh&label=Profile%20views&color=0e75b6&style=flat" alt="abheenavsingh" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abheenav-singh/) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abheenavsingh" alt="abheenavsingh" /></a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbheenavSingh&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbheenavSingh&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbheenavSingh&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Java,Problem Solving and DSA**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbheenavSingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhinav-singh-554933247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-singh-554933247" height="30" width="40" /></a>
-<a href="https://instagram.com/abheenav_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abheenav_singh" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AbheenavSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abheenavsingh&show_icons=true&locale=en&layout=compact" alt="abheenavsingh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abheenavsingh&show_icons=true&locale=en" alt="abheenavsingh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abheenavsingh&" alt="abheenavsingh" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
