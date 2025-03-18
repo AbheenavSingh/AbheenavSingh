@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Abhinav Singh<br>I’m a passionate Computer Science student delving into software development, APIs, and data-driven projects. My interests span across IoT, AI/ML, and web development. I enjoy building practical solutions to real-world problems, from APIs to full-stack apps using Node.js, Next.js, and MongoDB.<br><br>🌱 Currently, I’m working on projects that help bridge communication gaps, such as an app for deaf and mute students that interprets Indian Sign Language.<br><br>📚 Always eager to learn, I love exploring new technologies and taking on innovative challenges!<br><br>
+👋 Hello! I'm Abhinav Singh<br>I’m a passionate Computer Science student delving into software development, APIs, and data-driven projects. My interests span across IoT, AI/ML, and web development. I enjoy building practical solutions to real-world problems, from APIs to full-stack apps using Node.js, Next.js, and MongoDB.<br><br><br><br>📚 Always eager to learn, I love exploring new technologies and taking on innovative challenges!<br><br>
 
 
 ## 🌐 Socials:
